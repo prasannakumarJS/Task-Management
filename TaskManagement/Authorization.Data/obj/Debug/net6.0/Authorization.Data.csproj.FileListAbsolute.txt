@@ -1,0 +1,14 @@
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\obj\Debug\net6.0\Authorization.Data.csproj.AssemblyReference.cache
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\obj\Debug\net6.0\Authorization.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\obj\Debug\net6.0\Authorization.Data.AssemblyInfoInputs.cache
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\obj\Debug\net6.0\Authorization.Data.AssemblyInfo.cs
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\obj\Debug\net6.0\Authorization.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\bin\Debug\net6.0\Authorization.Data.deps.json
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\bin\Debug\net6.0\Authorization.Data.runtimeconfig.json
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\bin\Debug\net6.0\Authorization.Data.dll
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\bin\Debug\net6.0\Authorization.Data.pdb
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\obj\Debug\net6.0\Authorization.Data.dll
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\obj\Debug\net6.0\refint\Authorization.Data.dll
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\obj\Debug\net6.0\Authorization.Data.pdb
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\obj\Debug\net6.0\Authorization.Data.genruntimeconfig.cache
+C:\Users\Hanisha.punuru\source\repos\TaskManagement\Authorization.Data\obj\Debug\net6.0\ref\Authorization.Data.dll
